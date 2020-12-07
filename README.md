@@ -1,3 +1,3 @@
-# ios_semi_modal_sample
+# SemiModalSample
 
 iOS semi-modal / half-modal implementation sample
